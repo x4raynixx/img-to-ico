@@ -18,5 +18,7 @@ To download the latest release of this tool, click [here](https://github.com/x4r
 
 # Architecture
 > x64 : [Download]()
+
 > x86 : [Download]()
+
 > ARM64 : [Download]()
